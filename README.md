@@ -16,7 +16,7 @@ Complete the following Udemy courses:
 + [ ] AWS Redshift - A Comprehensive Guide
 + [ ] Amazon DynamoDb Data Modeling For Architects and Developers
 
-## Sections
+## Cantrill Course Sections:
 
 Sections to be completed:
 
@@ -38,4 +38,64 @@ Sections to be completed:
 + [ ] Disaster Recovery & Business Continuity in AWS (**S**)
 + [ ] Everything Else
 
+## AWS Guide Book Sections:
+
++ [ ] Determining an Authentication and Access Control Strategy for Complex Organizations
+
+IAM, MFA, Access Control, AWS Directory Service
+
++ [ ] Designing Networks for Complex Organizations 
+
+VPN Connections, AWS DX, Storage Gateway, VPC Endpoints, Transit Gateway
+
++ [ ] Designing a Multi-Account AWS Environment for Complex Organizations
+
+Billing Strategy, Resource Isolation, SCPs, Control Tower
+
++ [ ] Ensuring Cost Optimization
+
+Governance with tagging, Monitoring with alerts, notifications and reports
+
++ [ ] Determining Security Requirements and Controls
+
+IAM, Protecting infrastructure & data, Detecting incidents
+
++ [ ] Meeting Reliability Requirements
+
++ [ ] Ensuring Business Continuity
+
+Disaster recovery, high availability, Business continuity plan, disaster recovery, detecting disaster
+
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
++ [ ]
 
