@@ -20,7 +20,22 @@ Complete the following Udemy courses:
 
 Sections to be completed:
 
-+ [ ] actual checkbox
-[ ] also a checkbox
++ [ ] Networking and Tech Fundamentals
++ [ ] Advanced Permissions and Accounts
++ [ ] Advanced Identities & Federation
++ [ ] Networking & Hybrid (**L**)
++ [ ] Storage Services
++ [ ] Compute, Scaling & Load Balancing
++ [ ] Monitoring, Logging & Cost Management (**S**)
++ [ ] Databases
++ [ ] Data Analytics (**S**)
++ [ ] App Services, Containers & Serverless (**L**)
++ [ ] Caching, Delivery and Edge (**S**)
++ [ ] Migrations & Extensions 
++ [ ] Infrastructure as Code
++ [ ] Deployment & Management
++ [ ] Advanced Security and Config Management
++ [ ] Disaster Recovery & Business Continuity in AWS (**S**)
++ [ ] Everything Else
 
 
