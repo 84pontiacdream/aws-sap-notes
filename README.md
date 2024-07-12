@@ -66,8 +66,11 @@ IAM, Protecting infrastructure & data, Detecting incidents
 
 Disaster recovery, high availability, Business continuity plan, disaster recovery, detecting disaster
 
-+ [ ]
-+ [ ]
++ [ ] Meeting performance objectives
+
++ [ ] Establis
+
+
 + [ ]
 + [ ]
 + [ ]
