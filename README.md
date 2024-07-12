@@ -12,11 +12,9 @@
 ## Prerequisite Study
 Complete the following Udemy courses:
 
-+[ ] AWS Networking Masterclass
-
-+[ ] AWS Redshift - A Comprehensive Guide
-
-+[ ] Amazon DynamoDb Data Modeling For Architects and Developers
++ [ ] AWS Networking Masterclass
++ [ ] AWS Redshift - A Comprehensive Guide
++ [ ] Amazon DynamoDb Data Modeling For Architects and Developers
 
 ## Sections
 
