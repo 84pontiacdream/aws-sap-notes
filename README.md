@@ -68,37 +68,29 @@ Disaster recovery, high availability, Business continuity plan, disaster recover
 
 + [ ] Meeting performance objectives
 
-+ [ ] Establis
++ [ ] Establishing a Deployment Strategy
+AWS Deployment Services
 
++ [ ] Designing for Cost Efficiency
+AWS Pricing Models, Evaluating Costs
 
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
-+ [ ]
++ [ ] Improving Operational Excellence
+Design principles, Improving the organizational fit, Identifying opperational gaps
 
++ [ ] Improving Reliability 
+
++ [ ] Improving Performance
+
++ [ ] Improving Security
+
++ [ ] Improving Deployment
+
++ [ ] Exploring Opportunities for Cost Optimization
+
++ [ ] Selecting Existing Workloads and Processes to Migrate
+
++ [ ] Selecting Migration Tools and Services
+
++ [ ] Determining a New Architecture for Existing Workloads
+
++ [ ] Determining Opportunities for Modernization and Enhancements
