@@ -9,13 +9,6 @@
 |Continuous improvement for existing solutions|25%|
 |Accelerate workload migration and modernization|20%|
 
-## Prerequisite Study
-Complete the following Udemy courses:
-
-+ [ ] AWS Networking Masterclass
-+ [ ] AWS Redshift - A Comprehensive Guide
-+ [ ] Amazon DynamoDb Data Modeling For Architects and Developers
-
 ## Cantrill Course Sections:
 
 Sections to be completed:
