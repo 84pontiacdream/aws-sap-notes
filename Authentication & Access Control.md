@@ -31,7 +31,3 @@ Leveraging Access Delegation
 
 Security  
 * Security of iam users can be enhanced by enabling MFA
-
-
-
-
