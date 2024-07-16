@@ -2,26 +2,27 @@
 
 ## IAM Identities & Policies
 
-**<span style="color:">IAM Users</span>** are given permissions by directly assigned IAM policies or being assigned to an IAM user group.  
+IAM Users: given permissions by directly assigned IAM policies or being assigned to an IAM user group.  
 
-**IAM Roles** are used to provide temporary credentials to entities (individuals, AWS services or applications)  
+IAM Roles: used to provide temporary credentials to entities (individuals, AWS services or applications)  
 
 IAM user or role **<span style="color:indianred">cannot span multiple AWS accounts</span>**
 
 
-**IAM Policy** is an object assigned to IAM identities / an AWS resource allowing access control.  
+IAM Policy: an object assigned to IAM identities / an AWS resource allowing access control.  
 
-**IAM Policy Types:**
+Policy Types:
+* identity-based policies
+* resource-based policies
+* permissions boundaries
+* organizations service control policies (SCPs)
+* access control lists (ACLs)
+* session policies.
 
-
-* IAM supports multiple types
-of policies: 
-    * identity-based policies
-    * resource-based policies
-    * permissions boundaries
-    * organizations service control policies (SCPs)
-    * access control lists (ACLs)
-    * ession policies.
+Identity based: 
+* JSON policy documents
+* attached to IAM identities
+* managed / inline policies
 
 IAM Policies
 
